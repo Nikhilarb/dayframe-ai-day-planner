@@ -85,7 +85,7 @@ The application generated a schedule in under 30 seconds once the inputs were ve
 
 The project report documents the planning workflow, safety requirements, initial testing failures, improvements, low-energy scheduling extension, and final validation.
 
-[View Project Documentation](Build-AI-Day-Planner-in-AI-Studio.pdf)
+[View Project Documentation](Build%20an%20AI%20Day%20Planner%20in%20AI%20Studio.pdf)
 
 ## Key Learning
 
